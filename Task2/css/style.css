@@ -1,0 +1,25 @@
+.Main{
+    background-color: rgb(61, 61, 61);
+    width: 1000px;
+    border: 20px solid black;
+}
+
+ul li{
+    color: rgb(34, 34, 34);
+    display: inline;
+    list-style: none;
+    margin-left: 15px;
+}
+
+h1{
+    color: green;   
+}
+
+p{
+    color: rgb(34, 34, 34);
+}
+.Main2{
+    background-color: white;
+    width: 600px;
+    margin-left: 20px;
+}

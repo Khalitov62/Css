@@ -1,0 +1,12 @@
+.Lorem{
+    background-color: aqua;
+    border-bottom: 3px solid green;
+    width: 600;
+
+}
+
+.Border{
+    border: 2px solid green;
+    width: 700px;
+    height: 400px; 
+}
